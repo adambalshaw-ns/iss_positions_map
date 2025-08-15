@@ -1,0 +1,83 @@
+2025-08-15 22:37:11,724 INFO:Starting ETL pipeline...
+2025-08-15 22:37:12,021 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.062365&n=5
+2025-08-15 22:37:12,312 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.057365&n=5
+2025-08-15 22:37:12,599 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.0673649999999997&n=5
+2025-08-15 22:37:15,893 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.052365&n=5
+2025-08-15 22:37:16,188 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.0723649999999996&n=5
+2025-08-15 22:37:19,496 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.0423649999999998&n=5
+2025-08-15 22:37:19,781 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.082365&n=5
+2025-08-15 22:37:20,071 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.062365&n=5
+2025-08-15 22:37:20,360 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.057365&n=5
+2025-08-15 22:37:21,651 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.0673649999999997&n=5
+2025-08-15 22:37:21,940 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.052365&n=5
+2025-08-15 22:37:25,237 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.0723649999999996&n=5
+2025-08-15 22:37:46,267 ERROR:Other error fetching ISS passes: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-pass.json?lat=53.383504&lon=-3.0423649999999998&n=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BCC6786CF0>, 'Connection to api.open-notify.org timed out. (connect timeout=None)'))
+2025-08-15 22:37:47,565 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.383504&lon=-3.082365&n=5
+2025-08-15 22:38:08,624 ERROR:Other error fetching ISS passes: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-pass.json?lat=53.373504&lon=-3.062365&n=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BCC6786470>, 'Connection to api.open-notify.org timed out. (connect timeout=None)'))
+2025-08-15 22:38:08,914 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.057365&n=5
+2025-08-15 22:38:10,210 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.0673649999999997&n=5
+2025-08-15 22:38:13,523 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.052365&n=5
+2025-08-15 22:38:13,812 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.0723649999999996&n=5
+2025-08-15 22:38:17,114 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.0423649999999998&n=5
+2025-08-15 22:38:17,401 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.373504&lon=-3.082365&n=5
+2025-08-15 22:38:17,691 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.062365&n=5
+2025-08-15 22:38:17,981 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.057365&n=5
+2025-08-15 22:38:18,270 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.0673649999999997&n=5
+2025-08-15 22:38:18,558 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.052365&n=5
+2025-08-15 22:38:18,844 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.0723649999999996&n=5
+2025-08-15 22:38:19,134 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.0423649999999998&n=5
+2025-08-15 22:38:22,437 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.388504&lon=-3.082365&n=5
+2025-08-15 22:38:23,729 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.062365&n=5
+2025-08-15 22:38:24,015 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.057365&n=5
+2025-08-15 22:38:24,301 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.0673649999999997&n=5
+2025-08-15 22:38:24,590 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.052365&n=5
+2025-08-15 22:38:24,879 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.0723649999999996&n=5
+2025-08-15 22:38:25,168 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.0423649999999998&n=5
+2025-08-15 22:38:40,488 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.368504&lon=-3.082365&n=5
+2025-08-15 22:38:40,779 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.062365&n=5
+2025-08-15 22:38:41,066 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.057365&n=5
+2025-08-15 22:38:44,366 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.0673649999999997&n=5
+2025-08-15 22:38:47,658 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.052365&n=5
+2025-08-15 22:39:02,973 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.0723649999999996&n=5
+2025-08-15 22:39:03,262 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.0423649999999998&n=5
+2025-08-15 22:39:04,561 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.398504&lon=-3.082365&n=5
+2025-08-15 22:39:05,859 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.062365&n=5
+2025-08-15 22:39:06,148 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.057365&n=5
+2025-08-15 22:39:09,459 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.0673649999999997&n=5
+2025-08-15 22:39:24,765 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.052365&n=5
+2025-08-15 22:39:26,061 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.0723649999999996&n=5
+2025-08-15 22:39:29,372 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.0423649999999998&n=5
+2025-08-15 22:39:29,664 ERROR:HTTP error fetching ISS passes: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.358503999999996&lon=-3.082365&n=5
+2025-08-15 22:39:29,664 WARNING:No ISS pass data returned for nearby coordinates. Using original.
+2025-08-15 22:39:29,664 INFO:Total records fetched: 0
+2025-08-15 22:39:29,666 INFO:Saved raw data to data/raw/iss_pass_20250815_223929.csv
+2025-08-15 22:49:04,084 INFO:Starting ETL pipeline...
+2025-08-15 22:49:11,398 ERROR:HTTP error: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.062365&n=50
+2025-08-15 22:49:11,401 INFO:Saved weekly raw data to data/raw/iss_pass_week_20250815_224911.csv
+2025-08-15 22:53:03,537 INFO:Starting ETL pipeline...
+2025-08-15 22:53:03,830 ERROR:HTTP error: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.062365&n=5
+2025-08-15 22:53:03,833 INFO:Saved weekly raw data to data/raw/iss_pass_week_20250815_225303.csv
+2025-08-15 22:53:55,142 INFO:Starting ETL pipeline...
+2025-08-15 22:53:56,442 ERROR:HTTP error: 404 Client Error: Not Found for url: http://api.open-notify.org/iss-pass.json?lat=53.378504&lon=-3.062365&n=100
+2025-08-15 22:53:56,442 WARNING:No more ISS passes returned for 53.378504, -3.062365. Ending loop.
+2025-08-15 22:53:56,444 INFO:Saved weekly raw data to data/raw/iss_pass_week_20250815_225356.csv
+2025-08-15 22:56:09,278 INFO:Starting ETL pipeline...
+2025-08-15 22:57:06,411 INFO:Saved raw data to data/raw/iss_positions_20250815_225706.csv
+2025-08-15 22:57:06,425 INFO:Saved ISS map to iss_map.html
+2025-08-15 22:57:06,425 INFO:ETL pipeline finished successfully!
+2025-08-15 22:58:17,562 INFO:Starting ETL pipeline...
+2025-08-15 22:59:18,245 ERROR:Error fetching ISS position: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002CA2F7BA9C0>, 'Connection to api.open-notify.org timed out. (connect timeout=None)'))
+2025-08-15 22:59:26,429 INFO:Saved raw data to data/raw/iss_positions_20250815_225926.csv
+2025-08-15 22:59:26,439 INFO:Saved ISS map to iss_map.html
+2025-08-15 22:59:26,439 INFO:ETL pipeline finished successfully!
+2025-08-15 23:02:34,200 INFO:Starting ETL pipeline...
+2025-08-15 23:02:51,624 INFO:Starting ETL pipeline...
+2025-08-15 23:04:16,904 INFO:Starting ETL pipeline...
+2025-08-15 23:05:11,760 WARNING:Timeout fetching ISS position. Skipping this point.
+2025-08-15 23:05:12,765 INFO:Saved raw data to data/raw/iss_positions_20250815_230512.csv
+2025-08-15 23:05:12,779 INFO:Saved ISS map to iss_map.html
+2025-08-15 23:05:12,779 INFO:ETL pipeline finished successfully!
+2025-08-15 23:06:34,920 INFO:Starting ETL pipeline...
+2025-08-15 23:07:32,922 INFO:Saved raw data to data/raw/iss_positions_20250815_230732.csv
+2025-08-15 23:07:32,933 INFO:Saved ISS map to iss_map.html
+2025-08-15 23:07:32,934 INFO:ETL pipeline finished successfully!
