@@ -1,0 +1,3 @@
+2025-08-16 23:40:30,842 INFO:Starting ETL pipeline...
+2025-08-16 23:40:59,744 WARNING:Timeout fetching ISS position. Skipping this point.
+2025-08-16 23:41:22,265 WARNING:Timeout fetching ISS position. Skipping this point.

@@ -13,6 +13,16 @@ from datetime import datetime, timezone # Timestamp the files and return timezon
 from dotenv import load_dotenv # Load environment variables from .env file
 import folium
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
+
+# Ensure required directories exist
+try:
+    Path("data/raw").mkdir(parents=True, exist_ok=True)
+    logging.info("Directory 'data/raw' is ready.")
+except Exception as e:
+    logging.warning(f"Could not create 'data/raw' directory: {e}")
+
+
 # Load environment variables
 load_dotenv()
 LAT = float(os.getenv("LAT", 0))  # optional map marker
